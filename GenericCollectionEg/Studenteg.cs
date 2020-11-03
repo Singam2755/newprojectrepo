@@ -51,6 +51,7 @@ namespace GenericCollectionEg
             List<Student> students = new List<Student>();
             students.Add(new Student(null, 1001, 30));
             students.Add(new Student("abhi", 1002, 24));
+            students.Add(new Student("Raju", 1003, 25));
             BusinessLayer businessLayer = new BusinessLayer();
             businessLayer.Displaycity(city);
             businessLayer.DisplayStudentDetails(students);
