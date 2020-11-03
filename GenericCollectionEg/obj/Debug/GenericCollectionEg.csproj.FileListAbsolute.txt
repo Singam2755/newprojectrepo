@@ -1,0 +1,7 @@
+C:\Users\Singam\OneDrive\Desktop\TRAINING\.net\New folder\GenericCollectionEg\bin\Debug\GenericCollectionEg.exe.config
+C:\Users\Singam\OneDrive\Desktop\TRAINING\.net\New folder\GenericCollectionEg\bin\Debug\GenericCollectionEg.exe
+C:\Users\Singam\OneDrive\Desktop\TRAINING\.net\New folder\GenericCollectionEg\bin\Debug\GenericCollectionEg.pdb
+C:\Users\Singam\OneDrive\Desktop\TRAINING\.net\New folder\GenericCollectionEg\obj\Debug\GenericCollectionEg.csprojAssemblyReference.cache
+C:\Users\Singam\OneDrive\Desktop\TRAINING\.net\New folder\GenericCollectionEg\obj\Debug\GenericCollectionEg.csproj.CoreCompileInputs.cache
+C:\Users\Singam\OneDrive\Desktop\TRAINING\.net\New folder\GenericCollectionEg\obj\Debug\GenericCollectionEg.exe
+C:\Users\Singam\OneDrive\Desktop\TRAINING\.net\New folder\GenericCollectionEg\obj\Debug\GenericCollectionEg.pdb
